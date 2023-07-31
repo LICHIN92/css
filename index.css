@@ -492,6 +492,7 @@ li div:hover{
     font-size: 1.3rem;
     font-weight: 600;
     border: none;
+    cursor: pointer;
 }
 .login-btn{
     display: flex;
